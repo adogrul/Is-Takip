@@ -1,0 +1,28 @@
+
+
+ ÇALIŞMA AKIŞ PROGRAMI 
+Arda: 5
+Buse : 5
+Canan : 5
+Derya: 5
+Elif : 5
+Firdevs : 5
+-----------------------------------
+
+ ÇALIŞMA AKIŞ PROGRAMI 
+Arda: 10
+Buse : 10
+Canan : 10
+Derya: 10
+Elif : 10
+Firdevs : 10
+-----------------------------------
+
+ ÇALIŞMA AKIŞ PROGRAMI 
+Arda: 5
+Buse : 5
+Canan : 5
+Derya: 5
+Elif : 5
+Firdevs : 5
+-----------------------------------

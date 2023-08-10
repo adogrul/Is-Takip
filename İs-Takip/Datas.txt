@@ -1,0 +1,50 @@
+
+
+1. Hafta Çalışma Programı
+Arda : Pazartesi: 
+Buse : Salı: 
+Canan : Çarşamba: 
+Derya : Perşembe: 
+Elif : Cuma: 
+Bu Hafta İziznli Kişi ==>Firdevs
+
+2. Hafta Çalışma Programı
+Firdevs : Pazartesi: 
+Arda : Salı: 
+Buse : Çarşamba: 
+Canan : Perşembe: 
+Derya : Cuma: 
+Bu Hafta İziznli Kişi ==>Elif
+
+3. Hafta Çalışma Programı
+Elif : Pazartesi: 
+Firdevs : Salı: 
+Arda : Çarşamba: 
+Buse : Perşembe: 
+Canan : Cuma: 
+Bu Hafta İziznli Kişi ==>Derya
+
+4. Hafta Çalışma Programı
+Derya : Pazartesi: 
+Elif : Salı: 
+Firdevs : Çarşamba: 
+Arda : Perşembe: 
+Buse : Cuma: 
+Bu Hafta İziznli Kişi ==>Canan
+
+5. Hafta Çalışma Programı
+Canan : Pazartesi: 
+Derya : Salı: 
+Elif : Çarşamba: 
+Firdevs : Perşembe: 
+Arda : Cuma: 
+Bu Hafta İziznli Kişi ==>Buse
+
+6. Hafta Çalışma Programı
+Buse : Pazartesi: 
+Canan : Salı: 
+Derya : Çarşamba: 
+Elif : Perşembe: 
+Firdevs : Cuma: 
+Bu Hafta İziznli Kişi ==>Arda
+--------------------------------
